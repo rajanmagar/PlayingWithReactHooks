@@ -1,2 +1,0 @@
-# PlayingWithReactHooks
-Created with CodeSandbox
